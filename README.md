@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/strachan">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=strachan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strachan&langs_count=5&theme=dracula"/>
+  <img height="220em" src="https://github-readme-stats-two-henna-97.vercel.app/api?username=strachan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats-two-henna-97.vercel.app/api/top-langs/?username=strachan&langs_count=5&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Strachan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
